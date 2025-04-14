@@ -5,7 +5,7 @@ loans:
   message: "Welcome to CAMT loans related local APIs "
   contactDetails:
     name: "Carlos Madrigal - Developer"
-    email: "f565add82458ffdaa6b96c85f39e6c882a1bd93ea266d2496e79229605435ecd"
+    email: "{cipher}f565add82458ffdaa6b96c85f39e6c882a1bd93ea266d2496e79229605435ecd"
   onCallSupport:
     - (452) 456-2176
     - (546) 764-8934
