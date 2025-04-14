@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to CAMT cards related QA APIs, I'm using webhooks and rabbitMQ to update configurations on my microservice!!!"
+  message: "Welcome to CAMT cards related QA APIs"
   contactDetails:
     name: "Carlos Madrigal - QA Lead"
     email: "{cipher}cf68093b6911f9a1ba738c7b8cb3d50fcf33fe3749f79f9390786f7f5fa92cbb"
