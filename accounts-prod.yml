@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "CAMT Accounts related PROD APIs"
+  contactDetails:
+    name: "Carlos Madrigal - PROD Lead"
+    email: "camtPROD@mail.com"
+  onCallSupport:
+    - 8714573333
+    - 8714573334

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to CAMT cards related LOCAL APIs "
+  contactDetails:
+    name: "Carlos Madrigal - LOCAL Lead"
+    email: "camt@mail.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267

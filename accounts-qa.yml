@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "CAMT Accounts related QA APIs"
+  contactDetails:
+    name: "Carlos Madrigal - QA Lead"
+    email: "camtQA@mail.com"
+  onCallSupport:
+    - 8714573333
+    - 8714573334

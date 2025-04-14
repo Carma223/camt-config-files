@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "CAMT Accounts related local APIs"
+  contactDetails:
+    name: "Carlos Madrigal"
+    email: "camt@mail.com"
+  onCallSupport:
+    - 8714573333
+    - 8714573334
