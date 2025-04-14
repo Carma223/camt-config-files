@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "CAMT Accounts related Quality APIs"
+  message: "CAMT Accounts related QA APIs"
   contactDetails:
     name: "Carlos Madrigal - QA Lead"
     email: "{cipher}cf68093b6911f9a1ba738c7b8cb3d50fcf33fe3749f79f9390786f7f5fa92cbb"
