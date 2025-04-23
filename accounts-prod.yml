@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "CAMT Accounts related PROD APIs, im making direct changes to prod env lol"
+  message: "CAMT Accounts related PROD APIs, they got mad"
   contactDetails:
     name: "Carlos Madrigal - PROD Lead"
     email: "{cipher}e50fd946c1083b720b231af26bc1cef78a88c111b0803cab4eb2a42535b6e963ac35604726dc127a60e412d279a88eee"
